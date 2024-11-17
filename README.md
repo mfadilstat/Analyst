@@ -1,8 +1,14 @@
 # Analyst
 Statistics, Analysis, Functions
 
-# Analisis Desktriptif (Descriptive Analyst)
+## Analisis Desktriptif (Descriptive Analyst)
 ```R
+## ########################################################################## ##
+## license : DF-Code
+## DF-Code : Descriptive Analysis
+## Update  : 2024-11-17
+## ########################################################################## ##
+
 descriptive.test <- function(data, col.name = NULL, row.name = NULL){
   data <- data.frame(data)
   N <- MIN<-MAX<-MEAN<-SD<-VAR<-c()
