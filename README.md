@@ -4,7 +4,7 @@ Statistics, Analysis, Functions
 ## Analisis Desktriptif (Descriptive Analyst)
 ```R
 ## ########################################################################## ##
-## license : DF-Code
+## license : DF-Stat
 ## DF-Code : Descriptive Analysis
 ## Update  : 2024-11-17
 ## ########################################################################## ##
